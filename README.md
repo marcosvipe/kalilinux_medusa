@@ -1,10 +1,9 @@
-cat <<EOF > README.md
 # Projeto Prático: Pentest com Medusa & Metasploitable 2 🛡️
 
 Este repositório contém a documentação e os scripts para a simulação de ataques de força bruta em um ambiente controlado, utilizando **Kali Linux** e a ferramenta **Medusa** contra o **Metasploitable 2**.
 
 ## 🏗️ Configuração do Ambiente
-- **Atacante:** Kali Linux (IP: 192.168.56.10)
+- **Atacante:** Kali Linux (IP: 192.168.56.102)
 - **Alvo:** Metasploitable 2 (IP: 192.168.56.101)
 - **Rede:** Host-Only (VirtualBox)
 
@@ -53,4 +52,3 @@ Para prevenir estes ataques, recomenda-se:
 
 ---
 **Aviso:** Uso estritamente educacional.
-EOF
