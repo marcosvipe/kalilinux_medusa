@@ -1,6 +1,4 @@
+user
+msfadmin
 admin
 root
-msfadmin
-user
-service
-postgres
